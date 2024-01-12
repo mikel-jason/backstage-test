@@ -1,0 +1,8 @@
+site_name: 'Component'
+site_description: 'Lorem ipsum'
+
+plugins:
+  - techdocs-core
+
+nav:
+  - Home: docs/home.md
